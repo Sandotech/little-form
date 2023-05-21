@@ -1,7 +1,7 @@
 {
-  "name": "form-in-react-hook-forms",
+  "name": "form-with-react-hook-forms",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -23,5 +23,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
     "vite": "^4.3.2"
-  }
+  },
+  "author": "Diego Santos <dseosantos76@gmail.com> (https://github.com/Sandotech)",
+  "license": "MIT"
 }
