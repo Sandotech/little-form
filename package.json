@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "css-checkbox-library": "^1.5.2",
+    "pretty-checkbox": "^3.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.43.9"

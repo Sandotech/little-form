@@ -1,0 +1,18 @@
+:root{
+    --emerald: #19CC8B;
+    --lightGrey: #515866;
+    --darkGrey: #2A2D33;
+}
+
+.form--card{
+    color: aliceblue;
+    width: 400px;
+    background-color: var(--darkGrey);
+    border-radius: 40px;
+    min-height: 530px;
+    box-shadow: 0 40px 80px rgba(0,0,0,0.5)
+}
+
+h1{
+    text-align: center;
+}
